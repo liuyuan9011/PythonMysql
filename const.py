@@ -6,11 +6,11 @@ MERCHANT_FILE = './merchant_id.txt'
 
 
 class DbConfig(object):
-    host = '10.6.19.35'
+    host = ''
     port = 3307
-    password = '7SmflrViu9Wk8IFi_t5rYoJXtZVfL4NF'
-    user = 'people_t_w'
-    db_name = 'engagement_survey'
+    password = ''
+    user = ''
+    db_name = ''
 
 
 
